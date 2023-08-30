@@ -33,11 +33,7 @@ THEN I am able to successfully create, update, and delete data in my database
 The following walk-through video demonstrates the functionality of the web application. You can also view the walk-through video via this link:
 https://watch.screencastify.com/v/jjsDurW6BcDX8MUvydTE
 
-
-
-Uploading E-Commerce.mp4…
-
-
+https://github.com/kristinaama/E-Commerce/assets/127279859/bae1288f-718a-48cf-8d5c-432982754397
 
 ## Installation:
  The code can be downloaded via the E-Commerce folder on my Github page.
