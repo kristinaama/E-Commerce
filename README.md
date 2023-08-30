@@ -30,7 +30,14 @@ WHEN I test API POST, PUT, and DELETE routes in Insomnia
 THEN I am able to successfully create, update, and delete data in my database
 ```
 
-The following walk-through video demonstrates the functionality of the web application:
+The following walk-through video demonstrates the functionality of the web application. You can also view the walk-through video via this link:
+https://watch.screencastify.com/v/jjsDurW6BcDX8MUvydTE
+
+
+
+Uploading E-Commerce.mp4…
+
+
 
 ## Installation:
  The code can be downloaded via the E-Commerce folder on my Github page.
